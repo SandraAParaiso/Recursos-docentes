@@ -1,7 +1,8 @@
 # Recursos-docentes
-Ficheros de Matlab empleados en las prácticas de Psicología de la Percepción en el Grado de Psicología de la Universidad Complutense de Madrid.
 
-Cualquier sugerencia de mejora es bienvenida.
+## Ficheros de Matlab empleados en las prácticas de Psicología de la Percepción en el Grado de Psicología de la Universidad Complutense de Madrid.
+
+_Cualquier sugerencia de mejora es bienvenida._
 
 Al ejecutar el código del fichero 'aspectos_basicos_sonido.m' en Matlab se representan gráficamente tres tonos puros (Figura 1) y su respectivo espectro de amplitud (Figura 2). Además, siguiendo el Teorema de Fourier, se reconstruye la señal original (un sonido complejo) mediante la suma de los tres tonos puros (véase la Figura 3). Finalmente, en la Figura 4 se representa el espectro de amplitud del sonido complejo. Nótese que el sonido complejo está formado por tres armónicos, siendo su frecuencia fundamental o primer armónico 1 Hz. Aclaración: se han representado frecuencias temporales muy bajas [1-3hz] con fines didácticos.
 
