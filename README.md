@@ -1,6 +1,6 @@
 # Recursos-docentes
 
-## Ficheros de Matlab y Python empleados en las prácticas de Psicología de la Percepción en el Grado de Psicología de la Universidad Complutense de Madrid.
+## Ficheros de Python y Matlab empleados en las prácticas de Psicología de la Percepción en el Grado de Psicología de la Universidad Complutense de Madrid.
 
 _Cualquier sugerencia de mejora es bienvenida._
 
